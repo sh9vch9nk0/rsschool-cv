@@ -75,7 +75,7 @@ Bachelor of Philology: Chinese and English Languages
 ## Languages
 
 **English:** C2  
-[EF SET certificate](www.efset.org/cert/w1dAsC)  
+[EF SET certificate](https://www.efset.org/cert/w1dAsC)  
 **Chinese:** B1  
 **Ukrainian:** native  
 **Russian:** native

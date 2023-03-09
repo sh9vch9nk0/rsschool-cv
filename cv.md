@@ -4,11 +4,11 @@
 
 ## Contacts
 
-**Adress:** Kyiv, Ukraine
-**Phone:** +380 (95) 13 22 312
-**Email:** sh9vch9nk0@gmail.com
-**[Telegram](https://t.me/sh9vch9nk0)**
-**[Linked In](www.linkedin.com/in/sh9vch9nk0)**
+**Adress:** Kyiv, Ukraine  
+**Phone:** +380 (95) 13 22 312  
+**Email:** sh9vch9nk0@gmail.com  
+**[Telegram](https://t.me/sh9vch9nk0)**  
+**[Linked In](www.linkedin.com/in/sh9vch9nk0)**  
 **[GitHub](https://github.com/sh9vch9nk0)**
 
 ## Summary
